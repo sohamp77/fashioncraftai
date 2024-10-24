@@ -51,7 +51,7 @@ const Home = () => {
 						<motion.div {...headContentAnimation} className='flex flex-col md:gap-5 gap-3'>
 							<p className='head-subtext'>
 								<strong>Create</strong> your unique and&nbsp;exclusive shirt with&nbsp;our brand-new
-								3D&nbsp;customization tool. <strong>Uleash your&nbsp;imagination</strong>{' '}
+								3D&nbsp;customization tool. <strong>Unleash your&nbsp;imagination</strong>{' '}
 								and&nbsp;define&nbsp;your&nbsp;own&nbsp;style.
 							</p>
 							<CustomButton
